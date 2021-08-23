@@ -378,6 +378,7 @@ h6{ font-size: 16px;}
     }
     #skills {
         margin-left: 0;
+        flex-direction: column;
     }
     
 
